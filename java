@@ -25,3 +25,7 @@ public class Main {
       System.out.println(num + " is not a prime number.");
   }
 }
+
+
+
+above code is for prime numbers
